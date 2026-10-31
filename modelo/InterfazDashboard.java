@@ -1,3 +1,4 @@
+package modelo;
 import javax.swing.JComponent;
 
 public interface InterfazDashboard extends Comparable<InterfazDashboard> {

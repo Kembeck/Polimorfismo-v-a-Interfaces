@@ -1,4 +1,6 @@
+package modelo;
 import javax.swing.*;
+
 import java.time.LocalTime;
 
 public class Reloj implements InterfazDashboard {

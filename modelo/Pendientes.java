@@ -1,4 +1,6 @@
+package modelo;
 import javax.swing.*;
+
 import java.awt.GridLayout;
 
 public class Pendientes implements InterfazDashboard, InterfazInteractivo {

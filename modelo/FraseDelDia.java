@@ -1,3 +1,4 @@
+package modelo;
 import javax.swing.*;
 
 public class FraseDelDia implements InterfazDashboard {

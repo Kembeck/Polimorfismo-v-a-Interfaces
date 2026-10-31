@@ -1,4 +1,6 @@
+package modelo;
 import javax.swing.*;
+
 import java.awt.GridLayout;
 
 public class Clima implements InterfazDashboard, InterfazInteractivo {
